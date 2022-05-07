@@ -1,4 +1,4 @@
-const frontendApi = 'your-frontend-api'
+const frontendApi = 'clerk.rested.wahoo-49.lcl.dev'
 
 const startClerk = async () => {
     const Clerk = window.Clerk
